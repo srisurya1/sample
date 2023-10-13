@@ -3,7 +3,6 @@
 #include <zephyr/drivers/gpio.h>
 #include <zephyr/drivers/rtc.h>
 #include <zephyr/drivers/i2c.h>
-//#include <zephyr/logging/log.h>
 /* 1000 msec = 1 sec */
 #define SLEEP_TIME_MS   1000
 
